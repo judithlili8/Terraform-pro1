@@ -1,2 +1,2 @@
-# Terraform-week7
+# Terraform-pro1
 Terraform code to create a multi tier
